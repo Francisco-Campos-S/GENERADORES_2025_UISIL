@@ -1,0 +1,2138 @@
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.4) (preloaded format=pdflatex 2024.11.12)  17 JUL 2025 11:41
+entering extended mode
+ restricted \write18 enabled.
+ file:line:error style messages enabled.
+ %&-line parsing enabled.
+**./examen_template.tex
+(examen_template.tex
+LaTeX2e <2024-11-01>
+L3 programming layer <2024-11-02>
+
+examen_template.tex:2: LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.2 \begin{center}
+                  
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+Overfull \hbox (20.0pt too wide) in paragraph at lines 2--2
+[] 
+ []
+
+examen_template.tex:3: Undefined control sequence.
+l.3     {\LARGE
+                \textbf{Examen de Matemática Financiera}}\\[1em]
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+Overfull \hbox (40.4581pt too wide) in paragraph at lines 3--3
+ \OT1/cmr/bx/n/10 Examen 
+ []
+
+
+Overfull \hbox (11.65967pt too wide) in paragraph at lines 3--3
+ \OT1/cmr/bx/n/10 de 
+ []
+
+
+Overfull \hbox (59.79129pt too wide) in paragraph at lines 3--3
+ \OT1/cmr/bx/n/10 Matem^^Satica 
+ []
+
+
+Overfull \hbox (14.26381pt too wide) in paragraph at lines 3--3
+ \OT1/cmr/bx/n/10 Fi- 
+ []
+
+
+Overfull \hbox (42.27058pt too wide) in paragraph at lines 3--3
+ \OT1/cmr/bx/n/10 nanciera 
+ []
+
+examen_template.tex:4: Undefined control sequence.
+l.4     {\large
+                \textbf{Estudiante:} {{ estudiante }}}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+Missing character: There is no e in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no u in font nullfont!
+Missing character: There is no d in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no e in font nullfont!
+
+Overfull \hbox (57.133pt too wide) in paragraph at lines 4--5
+ []\OT1/cmr/bx/n/10 Estudiante: 
+ []
+
+
+Overfull \hbox (65.34839pt too wide) in paragraph at lines 9--10
+[]\OT1/cmr/bx/n/10 Profesor:
+ []
+
+
+Overfull \hbox (26.82623pt too wide) in paragraph at lines 9--10
+\OT1/cmr/bx/n/10 Fran-
+ []
+
+
+Overfull \hbox (23.70264pt too wide) in paragraph at lines 9--10
+\OT1/cmr/bx/n/10 cisco
+ []
+
+
+Overfull \hbox (27.31233pt too wide) in paragraph at lines 9--10
+\OT1/cmr/bx/n/10 Cam-
+ []
+
+
+Overfull \hbox (16.99434pt too wide) in paragraph at lines 9--10
+\OT1/cmr/bx/n/10 pos
+ []
+
+
+Overfull \hbox (27.95122pt too wide) in paragraph at lines 9--10
+\OT1/cmr/bx/n/10 Sandi 
+ []
+
+Missing character: There is no D in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no d in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no y in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no d in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no d in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no g in font nullfont!
+Missing character: There is no u in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no j in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no . in font nullfont!
+Missing character: There is no P in font nullfont!
+Missing character: There is no u in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no d in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no u in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no z in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no u in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no d in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no f in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no . in font nullfont!
+Missing character: There is no F in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no h in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no d in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no g in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no : in font nullfont!
+Missing character: There is no . in font nullfont!
+
+Overfull \hbox (89.4399pt too wide) in paragraph at lines 11--12
+[]\OT1/cmr/bx/n/10 Instrucciones:
+ []
+
+
+Overfull \hbox (47.98032pt too wide) in paragraph at lines 11--12
+\OT1/cmr/bx/n/10 Mi^^Sercoles
+ []
+
+
+Overfull \hbox (11.49994pt too wide) in paragraph at lines 11--12
+\OT1/cmr/bx/n/10 17
+ []
+
+
+Overfull \hbox (11.65967pt too wide) in paragraph at lines 11--12
+\OT1/cmr/bx/n/10 de
+ []
+
+
+Overfull \hbox (24.47209pt too wide) in paragraph at lines 11--12
+\OT1/cmr/bx/n/10 Julio 
+ []
+
+
+Overfull \hbox (20.0pt too wide) in paragraph at lines 13--13
+[] 
+ []
+
+Missing character: There is no E in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no e in font nullfont!
+LaTeX Font Info:    Trying to load font information for +cmr on input line 14.
+LaTeX Font Info:    No file cmr.fd. on input line 14.
+
+LaTeX Font Warning: Font shape `/cmr/m/n' undefined
+(Font)              using `/cmr/m/n' instead on input line 14.
+
+examen_template.tex:14: Corrupted NFSS tables.
+wrong@fontshape ...message {Corrupted NFSS tables}
+                                                  error@fontshape else let f...
+l.14   \item El señ
+                    or Eduardo Morales realizó una compra de mercancía por...
+This error message was generated by an \errmessage
+command, so I can't give any explicit help.
+Pretend that you're Hercule Poirot: Examine all clues,
+and deduce the truth by order and method.
+
+
+LaTeX Font Warning: Font shape `/cmr/m/n' undefined
+(Font)              using `OT1/cmr/m/n' instead on input line 14.
+
+Missing character: There is no o in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no E in font nullfont!
+Missing character: There is no d in font nullfont!
+Missing character: There is no u in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no d in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no M in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no z in font nullfont!
+Missing character: There is no u in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no m in font nullfont!
+Missing character: There is no p in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no d in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no m in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no p in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no r in font nullfont!
+examen_template.tex:14: Missing $ inserted.
+<inserted text> 
+                $
+l.14 ... mercancía por \textbf{\$ {{ e1_monto }}}
+                                                  . Acordó hacer tres pagos...
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 14.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <5> on input line 14.
+examen_template.tex:14: Extra }, or forgotten $.
+<argument> \$ {{ e1_monto }
+                           }
+l.14 ... mercancía por \textbf{\$ {{ e1_monto }}}
+                                                  . Acordó hacer tres pagos...
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
+
+examen_template.tex:14: Extra }, or forgotten $.
+<argument> \$ {{ e1_monto }}
+                            
+l.14 ... mercancía por \textbf{\$ {{ e1_monto }}}
+                                                  . Acordó hacer tres pagos...
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
+
+examen_template.tex:14: Extra }, or forgotten $.
+<recently read> \egroup 
+                        
+l.14 ... mercancía por \textbf{\$ {{ e1_monto }}}
+                                                  . Acordó hacer tres pagos...
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
+
+
+LaTeX Warning: Command \' invalid in math mode on input line 14.
+
+examen_template.tex:14: Please use \mathaccent for accents in math mode.
+\add@accent ... \let \ignorespaces \relax \accent 
+                                                  #1 #2\egroup \ifmmode \els...
+l.14 ...�a por \textbf{\$ {{ e1_monto }}}. Acordó
+                                                   hacer tres pagos iguales:...
+I'm changing \accent to \mathaccent here; wish me luck.
+(Accents are not the same in formulas as they are in text.)
+
+
+LaTeX Warning: Command \' invalid in math mode on input line 14.
+
+examen_template.tex:14: Please use \mathaccent for accents in math mode.
+\add@accent ... \let \ignorespaces \relax \accent 
+                                                  #1 #2\egroup \ifmmode \els...
+l.14 ...: en 3, 5 y 9 meses. Si la tasa de interé
+                                                  s es del \textbf{{ e1_tasa...
+I'm changing \accent to \mathaccent here; wish me luck.
+(Accents are not the same in formulas as they are in text.)
+
+examen_template.tex:14: Missing $ inserted.
+<inserted text> 
+                $
+l.14 ...sa de interés es del \textbf{{ e1_tasa }}
+                                                  \% mensual, ¿cuál será ...
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+examen_template.tex:14: Extra }, or forgotten $.
+<argument> \bfseries { e1_tasa }
+                                
+l.14 ...sa de interés es del \textbf{{ e1_tasa }}
+                                                  \% mensual, ¿cuál será ...
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
+
+examen_template.tex:14: Extra }, or forgotten $.
+\mbox  #1->\leavevmode \hbox {#1}
+                                 
+l.14 ...sa de interés es del \textbf{{ e1_tasa }}
+                                                  \% mensual, ¿cuál será ...
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
+
+examen_template.tex:14: Extra }, or forgotten $.
+\nfss@text #1->{\mbox {#1}}
+                           
+l.14 ...sa de interés es del \textbf{{ e1_tasa }}
+                                                  \% mensual, ¿cuál será ...
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
+
+
+LaTeX Warning: Command \textquestiondown invalid in math mode on input line 14.
+
+
+
+LaTeX Warning: Command \' invalid in math mode on input line 14.
+
+examen_template.tex:14: Please use \mathaccent for accents in math mode.
+\add@accent ... \let \ignorespaces \relax \accent 
+                                                  #1 #2\egroup \ifmmode \els...
+l.14 ...del \textbf{{ e1_tasa }}\% mensual, ¿cuá
+                                                  l será el valor de cada p...
+I'm changing \accent to \mathaccent here; wish me luck.
+(Accents are not the same in formulas as they are in text.)
+
+
+LaTeX Warning: Command \' invalid in math mode on input line 14.
+
+examen_template.tex:14: Please use \mathaccent for accents in math mode.
+\add@accent ... \let \ignorespaces \relax \accent 
+                                                  #1 #2\egroup \ifmmode \els...
+l.14 ...xtbf{{ e1_tasa }}\% mensual, ¿cuál será
+                                                   el valor de cada pago?
+I'm changing \accent to \mathaccent here; wish me luck.
+(Accents are not the same in formulas as they are in text.)
+
+examen_template.tex:15: Missing $ inserted.
+<inserted text> 
+                $
+l.15 
+     
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+examen_template.tex:15: Missing } inserted.
+<inserted text> 
+                }
+l.15 
+     
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+
+examen_template.tex:16: LaTeX Error: Not allowed in LR mode.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.16   \item L
+              a empresa Distribuidora Omega adquirió productos por \textbf{...
+
+You've lost some text.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+examen_template.tex:16: LaTeX Error: Not allowed in LR mode.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.16   \item L
+              a empresa Distribuidora Omega adquirió productos por \textbf{...
+
+You've lost some text.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+examen_template.tex:16: Missing } inserted.
+<inserted text> 
+                }
+l.16   \item L
+              a empresa Distribuidora Omega adquirió productos por \textbf{...
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+examen_template.tex:16: Missing $ inserted.
+<inserted text> 
+                $
+l.16   \item L
+              a empresa Distribuidora Omega adquirió productos por \textbf{...
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+examen_template.tex:16: Missing } inserted.
+<inserted text> 
+                }
+l.16   \item L
+              a empresa Distribuidora Omega adquirió productos por \textbf{...
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+
+Overfull \hbox (10.55559pt too wide) in paragraph at lines 14--16
+\/cmr/m/n/10 ~n
+ []
+
+
+Overfull \hbox (5.00002pt too wide) in paragraph at lines 14--16
+\/cmr/m/n/10 ^^So
+ []
+
+
+Overfull \hbox (2.77779pt too wide) in paragraph at lines 14--16
+\/cmr/m/n/10 ^^S^^P
+ []
+
+
+Overfull \hbox (5.7486pt too wide) in paragraph at lines 14--16
+\TS1/cmr/bx/n/10 $
+ []
+
+
+Overfull \hbox (177.42801pt too wide) in paragraph at lines 14--16
+\OT1/cmr/bx/n/10 e1$[]\OML/cmm/m/it/10 onto:Acord[]hacertrespagosiguales \/cmr/
+m/n/10 :
+ []
+
+
+Overfull \hbox (383.48822pt too wide) in paragraph at lines 14--16
+\OML/cmm/m/it/10 en\/cmr/m/n/10 3\OML/cmm/m/it/10 ; \/cmr/m/n/10 5\OML/cmm/m/it
+/10 y\/cmr/m/n/10 9\OML/cmm/m/it/10 meses:Silatasadeinter[]sesdel[]$ 
+ []
+
+examen_template.tex:16: Missing $ inserted.
+<inserted text> 
+                $
+l.16 ...� productos por \textbf{\$ {{ e2_monto }}}
+                                                   y planea pagarlos en tres...
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+examen_template.tex:16: Extra }, or forgotten $.
+<argument> \$ {{ e2_monto }
+                           }
+l.16 ...� productos por \textbf{\$ {{ e2_monto }}}
+                                                   y planea pagarlos en tres...
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
+
+examen_template.tex:16: Extra }, or forgotten $.
+<argument> \$ {{ e2_monto }}
+                            
+l.16 ...� productos por \textbf{\$ {{ e2_monto }}}
+                                                   y planea pagarlos en tres...
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
+
+examen_template.tex:16: Extra }, or forgotten $.
+<recently read> \egroup 
+                        
+l.16 ...� productos por \textbf{\$ {{ e2_monto }}}
+                                                   y planea pagarlos en tres...
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
+
+
+LaTeX Warning: Command \' invalid in math mode on input line 16.
+
+examen_template.tex:16: Please use \mathaccent for accents in math mode.
+\add@accent ... \let \ignorespaces \relax \accent 
+                                                  #1 #2\egroup \ifmmode \els...
+l.16 ...s a 1, 6 y 11 meses. Si la tasa de interé
+                                                  s es del \textbf{{ e2_tasa...
+I'm changing \accent to \mathaccent here; wish me luck.
+(Accents are not the same in formulas as they are in text.)
+
+examen_template.tex:16: Missing $ inserted.
+<inserted text> 
+                $
+l.16 ...sa de interés es del \textbf{{ e2_tasa }}
+                                                  \% mensual, ¿cuánto debe...
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+examen_template.tex:16: Extra }, or forgotten $.
+<argument> \bfseries { e2_tasa }
+                                
+l.16 ...sa de interés es del \textbf{{ e2_tasa }}
+                                                  \% mensual, ¿cuánto debe...
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
+
+examen_template.tex:16: Extra }, or forgotten $.
+\mbox  #1->\leavevmode \hbox {#1}
+                                 
+l.16 ...sa de interés es del \textbf{{ e2_tasa }}
+                                                  \% mensual, ¿cuánto debe...
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
+
+examen_template.tex:16: Extra }, or forgotten $.
+\nfss@text #1->{\mbox {#1}}
+                           
+l.16 ...sa de interés es del \textbf{{ e2_tasa }}
+                                                  \% mensual, ¿cuánto debe...
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
+
+
+LaTeX Warning: Command \textquestiondown invalid in math mode on input line 16.
+
+
+
+LaTeX Warning: Command \' invalid in math mode on input line 16.
+
+examen_template.tex:16: Please use \mathaccent for accents in math mode.
+\add@accent ... \let \ignorespaces \relax \accent 
+                                                  #1 #2\egroup \ifmmode \els...
+l.16 ...del \textbf{{ e2_tasa }}\% mensual, ¿cuá
+                                                  nto deberá pagar en cada ...
+I'm changing \accent to \mathaccent here; wish me luck.
+(Accents are not the same in formulas as they are in text.)
+
+
+LaTeX Warning: Command \' invalid in math mode on input line 16.
+
+examen_template.tex:16: Please use \mathaccent for accents in math mode.
+\add@accent ... \let \ignorespaces \relax \accent 
+                                                  #1 #2\egroup \ifmmode \els...
+l.16 ...{{ e2_tasa }}\% mensual, ¿cuánto deberá
+                                                   pagar en cada cuota?
+I'm changing \accent to \mathaccent here; wish me luck.
+(Accents are not the same in formulas as they are in text.)
+
+examen_template.tex:17: Missing $ inserted.
+<inserted text> 
+                $
+l.17 
+     
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+examen_template.tex:17: Missing } inserted.
+<inserted text> 
+                }
+l.17 
+     
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+
+examen_template.tex:18: LaTeX Error: Not allowed in LR mode.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.18   \item U
+              na persona firma un pagaré por \textbf{\$ {{ e3_deuda1 }}} a ...
+
+You've lost some text.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+examen_template.tex:18: LaTeX Error: Not allowed in LR mode.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.18   \item U
+              na persona firma un pagaré por \textbf{\$ {{ e3_deuda1 }}} a ...
+
+You've lost some text.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+examen_template.tex:18: Missing } inserted.
+<inserted text> 
+                }
+l.18   \item U
+              na persona firma un pagaré por \textbf{\$ {{ e3_deuda1 }}} a ...
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+examen_template.tex:18: Missing $ inserted.
+<inserted text> 
+                $
+l.18   \item U
+              na persona firma un pagaré por \textbf{\$ {{ e3_deuda1 }}} a ...
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+examen_template.tex:18: Missing } inserted.
+<inserted text> 
+                }
+l.18   \item U
+              na persona firma un pagaré por \textbf{\$ {{ e3_deuda1 }}} a ...
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+
+Overfull \hbox (12.50685pt too wide) in paragraph at lines 16--18
+\OT1/cmr/bx/n/10 La
+ []
+
+
+Overfull \hbox (18.68741pt too wide) in paragraph at lines 16--18
+\OT1/cmr/bx/n/10 em-
+ []
+
+
+Overfull \hbox (26.52206pt too wide) in paragraph at lines 16--18
+\OT1/cmr/bx/n/10 presa
+ []
+
+
+Overfull \hbox (20.38321pt too wide) in paragraph at lines 16--18
+\OT1/cmr/bx/n/10 Dis-
+ []
+
+
+Overfull \hbox (50.84001pt too wide) in paragraph at lines 16--18
+\OT1/cmr/bx/n/10 tribuidora
+ []
+
+
+Overfull \hbox (34.83313pt too wide) in paragraph at lines 16--18
+\OT1/cmr/bx/n/10 Omega
+ []
+
+
+Overfull \hbox (41.31227pt too wide) in paragraph at lines 16--18
+\OT1/cmr/bx/n/10 adquiri^^So
+ []
+
+
+Overfull \hbox (20.70824pt too wide) in paragraph at lines 16--18
+\OT1/cmr/bx/n/10 pro-
+ []
+
+
+Overfull \hbox (21.7221pt too wide) in paragraph at lines 16--18
+\OT1/cmr/bx/n/10 duc-
+ []
+
+
+Overfull \hbox (14.75824pt too wide) in paragraph at lines 16--18
+\OT1/cmr/bx/n/10 tos
+ []
+
+
+Overfull \hbox (17.19437pt too wide) in paragraph at lines 16--18
+\OT1/cmr/bx/n/10 por
+ []
+
+
+Overfull \hbox (5.7486pt too wide) in paragraph at lines 16--18
+\TS1/cmr/bx/n/10 $
+ []
+
+
+Overfull \hbox (602.39682pt too wide) in paragraph at lines 16--18
+\OT1/cmr/bx/n/10 e2$[]\OML/cmm/m/it/10 ontoyplaneapagarlosentrescuotasigualesa\
+/cmr/m/n/10 1\OML/cmm/m/it/10 ; \/cmr/m/n/10 6\OML/cmm/m/it/10 y\/cmr/m/n/10 11
+\OML/cmm/m/it/10 meses:Silatasadeinter[]sesdel[]$ 
+ []
+
+examen_template.tex:18: Missing $ inserted.
+<inserted text> 
+                $
+l.18 ...un pagaré por \textbf{\$ {{ e3_deuda1 }}}
+                                                   a pagar en 4 meses, con u...
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+examen_template.tex:18: Extra }, or forgotten $.
+<argument> \$ {{ e3_deuda1 }
+                            }
+l.18 ...un pagaré por \textbf{\$ {{ e3_deuda1 }}}
+                                                   a pagar en 4 meses, con u...
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
+
+examen_template.tex:18: Extra }, or forgotten $.
+<argument> \$ {{ e3_deuda1 }}
+                             
+l.18 ...un pagaré por \textbf{\$ {{ e3_deuda1 }}}
+                                                   a pagar en 4 meses, con u...
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
+
+examen_template.tex:18: Extra }, or forgotten $.
+<recently read> \egroup 
+                        
+l.18 ...un pagaré por \textbf{\$ {{ e3_deuda1 }}}
+                                                   a pagar en 4 meses, con u...
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
+
+examen_template.tex:18: Missing $ inserted.
+<inserted text> 
+                $
+l.18 ...ses, con una tasa del \textbf{{ e3_tasa }}
+                                                  \% anual. A los 2 meses co...
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+examen_template.tex:18: Extra }, or forgotten $.
+<argument> \bfseries { e3_tasa }
+                                
+l.18 ...ses, con una tasa del \textbf{{ e3_tasa }}
+                                                  \% anual. A los 2 meses co...
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
+
+examen_template.tex:18: Extra }, or forgotten $.
+\mbox  #1->\leavevmode \hbox {#1}
+                                 
+l.18 ...ses, con una tasa del \textbf{{ e3_tasa }}
+                                                  \% anual. A los 2 meses co...
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
+
+examen_template.tex:18: Extra }, or forgotten $.
+\nfss@text #1->{\mbox {#1}}
+                           
+l.18 ...ses, con una tasa del \textbf{{ e3_tasa }}
+                                                  \% anual. A los 2 meses co...
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
+
+examen_template.tex:18: Missing $ inserted.
+<inserted text> 
+                $
+l.18 ... otra deuda de \textbf{\$ {{ e3_deuda2 }}}
+                                                   a 3 meses. Luego, abona \...
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+examen_template.tex:18: Extra }, or forgotten $.
+<argument> \bfseries \$ {{ e3_deuda2 }
+                                      }
+l.18 ... otra deuda de \textbf{\$ {{ e3_deuda2 }}}
+                                                   a 3 meses. Luego, abona \...
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
+
+examen_template.tex:18: Extra }, or forgotten $.
+<argument> \bfseries \$ {{ e3_deuda2 }}
+                                       
+l.18 ... otra deuda de \textbf{\$ {{ e3_deuda2 }}}
+                                                   a 3 meses. Luego, abona \...
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
+
+examen_template.tex:18: Extra }, or forgotten $.
+\mbox  #1->\leavevmode \hbox {#1}
+                                 
+l.18 ... otra deuda de \textbf{\$ {{ e3_deuda2 }}}
+                                                   a 3 meses. Luego, abona \...
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
+
+examen_template.tex:18: Extra }, or forgotten $.
+\nfss@text #1->{\mbox {#1}}
+                           
+l.18 ... otra deuda de \textbf{\$ {{ e3_deuda2 }}}
+                                                   a 3 meses. Luego, abona \...
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
+
+examen_template.tex:18: Missing $ inserted.
+<inserted text> 
+                $
+l.18 ...s. Luego, abona \textbf{\$ {{ e3_abono }}}
+                                                   y pacta el pago final a 6...
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+examen_template.tex:18: Extra }, or forgotten $.
+<argument> \bfseries \$ {{ e3_abono }
+                                     }
+l.18 ...s. Luego, abona \textbf{\$ {{ e3_abono }}}
+                                                   y pacta el pago final a 6...
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
+
+examen_template.tex:18: Extra }, or forgotten $.
+<argument> \bfseries \$ {{ e3_abono }}
+                                      
+l.18 ...s. Luego, abona \textbf{\$ {{ e3_abono }}}
+                                                   y pacta el pago final a 6...
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
+
+examen_template.tex:18: Extra }, or forgotten $.
+\mbox  #1->\leavevmode \hbox {#1}
+                                 
+l.18 ...s. Luego, abona \textbf{\$ {{ e3_abono }}}
+                                                   y pacta el pago final a 6...
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
+
+examen_template.tex:18: Extra }, or forgotten $.
+\nfss@text #1->{\mbox {#1}}
+                           
+l.18 ...s. Luego, abona \textbf{\$ {{ e3_abono }}}
+                                                   y pacta el pago final a 6...
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
+
+
+LaTeX Warning: Command \textquestiondown invalid in math mode on input line 18.
+
+
+
+LaTeX Warning: Command \' invalid in math mode on input line 18.
+
+examen_template.tex:18: Please use \mathaccent for accents in math mode.
+\add@accent ... \let \ignorespaces \relax \accent 
+                                                  #1 #2\egroup \ifmmode \els...
+l.18 ... el pago final a 6 meses del abono. ¿Cuá
+                                                  nto debe pagar al final?
+I'm changing \accent to \mathaccent here; wish me luck.
+(Accents are not the same in formulas as they are in text.)
+
+examen_template.tex:19: Missing $ inserted.
+<inserted text> 
+                $
+l.19 
+     
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+examen_template.tex:19: Missing } inserted.
+<inserted text> 
+                }
+l.19 
+     
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+
+examen_template.tex:20: LaTeX Error: Not allowed in LR mode.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.20   \item S
+              e depositan \textbf{₡{{ e4_deposito }}} en una cuenta con in...
+
+You've lost some text.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+examen_template.tex:20: LaTeX Error: Not allowed in LR mode.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.20   \item S
+              e depositan \textbf{₡{{ e4_deposito }}} en una cuenta con in...
+
+You've lost some text.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+examen_template.tex:20: Missing } inserted.
+<inserted text> 
+                }
+l.20   \item S
+              e depositan \textbf{₡{{ e4_deposito }}} en una cuenta con in...
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+examen_template.tex:20: Missing } inserted.
+<inserted text> 
+                }
+l.20   \item S
+              e depositan \textbf{₡{{ e4_deposito }}} en una cuenta con in...
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+examen_template.tex:20: Missing $ inserted.
+<inserted text> 
+                $
+l.20   \item S
+              e depositan \textbf{₡{{ e4_deposito }}} en una cuenta con in...
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+examen_template.tex:20: Missing } inserted.
+<inserted text> 
+                }
+l.20   \item S
+              e depositan \textbf{₡{{ e4_deposito }}} en una cuenta con in...
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+examen_template.tex:20: Missing } inserted.
+<inserted text> 
+                }
+l.20   \item S
+              e depositan \textbf{₡{{ e4_deposito }}} en una cuenta con in...
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+examen_template.tex:20: Missing } inserted.
+<inserted text> 
+                }
+l.20   \item S
+              e depositan \textbf{₡{{ e4_deposito }}} en una cuenta con in...
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+examen_template.tex:20: Missing } inserted.
+<inserted text> 
+                }
+l.20   \item S
+              e depositan \textbf{₡{{ e4_deposito }}} en una cuenta con in...
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+examen_template.tex:20: Missing $ inserted.
+<inserted text> 
+                $
+l.20   \item S
+              e depositan \textbf{₡{{ e4_deposito }}} en una cuenta con in...
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+examen_template.tex:20: Missing } inserted.
+<inserted text> 
+                }
+l.20   \item S
+              e depositan \textbf{₡{{ e4_deposito }}} en una cuenta con in...
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+examen_template.tex:20: Missing } inserted.
+<inserted text> 
+                }
+l.20   \item S
+              e depositan \textbf{₡{{ e4_deposito }}} en una cuenta con in...
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+examen_template.tex:20: Missing } inserted.
+<inserted text> 
+                }
+l.20   \item S
+              e depositan \textbf{₡{{ e4_deposito }}} en una cuenta con in...
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+examen_template.tex:20: Missing $ inserted.
+<inserted text> 
+                $
+l.20   \item S
+              e depositan \textbf{₡{{ e4_deposito }}} en una cuenta con in...
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+examen_template.tex:20: Missing } inserted.
+<inserted text> 
+                }
+l.20   \item S
+              e depositan \textbf{₡{{ e4_deposito }}} en una cuenta con in...
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+
+Overfull \hbox (20.82625pt too wide) in paragraph at lines 18--20
+\OT1/cmr/bx/n/10 Una
+ []
+
+
+Overfull \hbox (20.54852pt too wide) in paragraph at lines 18--20
+\OT1/cmr/bx/n/10 per-
+ []
+
+
+Overfull \hbox (22.26512pt too wide) in paragraph at lines 18--20
+\OT1/cmr/bx/n/10 sona
+ []
+
+
+Overfull \hbox (26.29846pt too wide) in paragraph at lines 18--20
+\OT1/cmr/bx/n/10 firma
+ []
+
+
+Overfull \hbox (12.77771pt too wide) in paragraph at lines 18--20
+\OT1/cmr/bx/n/10 un
+ []
+
+
+Overfull \hbox (15.8124pt too wide) in paragraph at lines 18--20
+\OT1/cmr/bx/n/10 pa-
+ []
+
+
+Overfull \hbox (21.3471pt too wide) in paragraph at lines 18--20
+\OT1/cmr/bx/n/10 gar^^Se
+ []
+
+
+Overfull \hbox (17.19437pt too wide) in paragraph at lines 18--20
+\OT1/cmr/bx/n/10 por
+ []
+
+
+Overfull \hbox (5.7486pt too wide) in paragraph at lines 18--20
+\TS1/cmr/bx/n/10 $
+ []
+
+
+Overfull \hbox (878.92192pt too wide) in paragraph at lines 18--20
+\OT1/cmr/bx/n/10 e3$[]\OML/cmm/m/it/10 euda\/cmr/m/n/10 1\OML/cmm/m/it/10 apaga
+ren\/cmr/m/n/10 4\OML/cmm/m/it/10 meses; conunatasadel[]$ 
+ []
+
+examen_template.tex:20: Missing $ inserted.
+<inserted text> 
+                $
+l.20 ...Se depositan \textbf{₡{{ e4_deposito }}}
+                                                   en una cuenta con interé...
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+examen_template.tex:20: Extra }, or forgotten $.
+<argument> ₡{{ e4_deposito }
+                              }
+l.20 ...Se depositan \textbf{₡{{ e4_deposito }}}
+                                                   en una cuenta con interé...
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
+
+examen_template.tex:20: Extra }, or forgotten $.
+<argument> ₡{{ e4_deposito }}
+                               
+l.20 ...Se depositan \textbf{₡{{ e4_deposito }}}
+                                                   en una cuenta con interé...
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
+
+examen_template.tex:20: Extra }, or forgotten $.
+<recently read> \egroup 
+                        
+l.20 ...Se depositan \textbf{₡{{ e4_deposito }}}
+                                                   en una cuenta con interé...
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
+
+
+LaTeX Warning: Command \' invalid in math mode on input line 20.
+
+examen_template.tex:20: Please use \mathaccent for accents in math mode.
+\add@accent ... \let \ignorespaces \relax \accent 
+                                                  #1 #2\egroup \ifmmode \els...
+l.20 ... e4_deposito }}} en una cuenta con interé
+                                                  s compuesto anual del \tex...
+I'm changing \accent to \mathaccent here; wish me luck.
+(Accents are not the same in formulas as they are in text.)
+
+examen_template.tex:20: Missing $ inserted.
+<inserted text> 
+                $
+l.20 ...s compuesto anual del \textbf{{ e4_tasa }}
+                                                  \%, convertible trimestral...
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+examen_template.tex:20: Extra }, or forgotten $.
+<argument> \bfseries { e4_tasa }
+                                
+l.20 ...s compuesto anual del \textbf{{ e4_tasa }}
+                                                  \%, convertible trimestral...
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
+
+examen_template.tex:20: Extra }, or forgotten $.
+\mbox  #1->\leavevmode \hbox {#1}
+                                 
+l.20 ...s compuesto anual del \textbf{{ e4_tasa }}
+                                                  \%, convertible trimestral...
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
+
+examen_template.tex:20: Extra }, or forgotten $.
+\nfss@text #1->{\mbox {#1}}
+                           
+l.20 ...s compuesto anual del \textbf{{ e4_tasa }}
+                                                  \%, convertible trimestral...
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
+
+
+LaTeX Warning: Command \textquestiondown invalid in math mode on input line 20.
+
+
+
+LaTeX Warning: Command \' invalid in math mode on input line 20.
+
+examen_template.tex:20: Please use \mathaccent for accents in math mode.
+\add@accent ... \let \ignorespaces \relax \accent 
+                                                  #1 #2\egroup \ifmmode \els...
+l.20 ... }}\%, convertible trimestralmente. ¿Cuá
+                                                  l será el interés ganado...
+I'm changing \accent to \mathaccent here; wish me luck.
+(Accents are not the same in formulas as they are in text.)
+
+
+LaTeX Warning: Command \' invalid in math mode on input line 20.
+
+examen_template.tex:20: Please use \mathaccent for accents in math mode.
+\add@accent ... \let \ignorespaces \relax \accent 
+                                                  #1 #2\egroup \ifmmode \els...
+l.20 ...convertible trimestralmente. ¿Cuál será
+                                                   el interés ganado al cab...
+I'm changing \accent to \mathaccent here; wish me luck.
+(Accents are not the same in formulas as they are in text.)
+
+
+LaTeX Warning: Command \' invalid in math mode on input line 20.
+
+examen_template.tex:20: Please use \mathaccent for accents in math mode.
+\add@accent ... \let \ignorespaces \relax \accent 
+                                                  #1 #2\egroup \ifmmode \els...
+l.20 ... trimestralmente. ¿Cuál será el interé
+                                                  s ganado al cabo de 1 año?
+I'm changing \accent to \mathaccent here; wish me luck.
+(Accents are not the same in formulas as they are in text.)
+
+
+LaTeX Warning: Command \~ invalid in math mode on input line 20.
+
+examen_template.tex:20: Please use \mathaccent for accents in math mode.
+\add@accent ... \let \ignorespaces \relax \accent 
+                                                  #1 #2\egroup \ifmmode \els...
+l.20 ... será el interés ganado al cabo de 1 añ
+                                                  o?
+I'm changing \accent to \mathaccent here; wish me luck.
+(Accents are not the same in formulas as they are in text.)
+
+examen_template.tex:21: Missing $ inserted.
+<inserted text> 
+                $
+l.21 
+     
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+examen_template.tex:21: Missing } inserted.
+<inserted text> 
+                }
+l.21 
+     
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+
+examen_template.tex:22: LaTeX Error: Not allowed in LR mode.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.22   \item J
+              orge invierte \textbf{\$ {{ e5_capital }}} al \textbf{{ e5_tas...
+
+You've lost some text.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+examen_template.tex:22: LaTeX Error: Not allowed in LR mode.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.22   \item J
+              orge invierte \textbf{\$ {{ e5_capital }}} al \textbf{{ e5_tas...
+
+You've lost some text.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+examen_template.tex:22: Missing } inserted.
+<inserted text> 
+                }
+l.22   \item J
+              orge invierte \textbf{\$ {{ e5_capital }}} al \textbf{{ e5_tas...
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+examen_template.tex:22: Missing $ inserted.
+<inserted text> 
+                $
+l.22   \item J
+              orge invierte \textbf{\$ {{ e5_capital }}} al \textbf{{ e5_tas...
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+examen_template.tex:22: Missing } inserted.
+<inserted text> 
+                }
+l.22   \item J
+              orge invierte \textbf{\$ {{ e5_capital }}} al \textbf{{ e5_tas...
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+
+Overfull \hbox (11.65967pt too wide) in paragraph at lines 20--22
+\OT1/cmr/bx/n/10 Se
+ []
+
+
+Overfull \hbox (15.49298pt too wide) in paragraph at lines 20--22
+\OT1/cmr/bx/n/10 de-
+ []
+
+
+Overfull \hbox (24.02208pt too wide) in paragraph at lines 20--22
+\OT1/cmr/bx/n/10 posi-
+ []
+
+
+Overfull \hbox (16.45128pt too wide) in paragraph at lines 20--22
+\OT1/cmr/bx/n/10 tan
+ []
+
+
+Overfull \hbox (8.30353pt too wide) in paragraph at lines 20--22
+\TS1/cmr/bx/n/10 �
+ []
+
+
+Overfull \hbox (592.24313pt too wide) in paragraph at lines 20--22
+\OT1/cmr/bx/n/10 e4$[]\OML/cmm/m/it/10 epositoenunacuentaconinter[]scompuestoan
+ualdel[]$ 
+ []
+
+examen_template.tex:22: Missing $ inserted.
+<inserted text> 
+                $
+l.22 ...orge invierte \textbf{\$ {{ e5_capital }}}
+                                                   al \textbf{{ e5_tasa }}\%...
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+examen_template.tex:22: Extra }, or forgotten $.
+<argument> \$ {{ e5_capital }
+                             }
+l.22 ...orge invierte \textbf{\$ {{ e5_capital }}}
+                                                   al \textbf{{ e5_tasa }}\%...
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
+
+examen_template.tex:22: Extra }, or forgotten $.
+<argument> \$ {{ e5_capital }}
+                              
+l.22 ...orge invierte \textbf{\$ {{ e5_capital }}}
+                                                   al \textbf{{ e5_tasa }}\%...
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
+
+examen_template.tex:22: Extra }, or forgotten $.
+<recently read> \egroup 
+                        
+l.22 ...orge invierte \textbf{\$ {{ e5_capital }}}
+                                                   al \textbf{{ e5_tasa }}\%...
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
+
+examen_template.tex:22: Missing $ inserted.
+<inserted text> 
+                $
+l.22 ... {{ e5_capital }}} al \textbf{{ e5_tasa }}
+                                                  \% anual durante 4 años. ...
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+examen_template.tex:22: Extra }, or forgotten $.
+<argument> \bfseries { e5_tasa }
+                                
+l.22 ... {{ e5_capital }}} al \textbf{{ e5_tasa }}
+                                                  \% anual durante 4 años. ...
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
+
+examen_template.tex:22: Extra }, or forgotten $.
+\mbox  #1->\leavevmode \hbox {#1}
+                                 
+l.22 ... {{ e5_capital }}} al \textbf{{ e5_tasa }}
+                                                  \% anual durante 4 años. ...
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
+
+examen_template.tex:22: Extra }, or forgotten $.
+\nfss@text #1->{\mbox {#1}}
+                           
+l.22 ... {{ e5_capital }}} al \textbf{{ e5_tasa }}
+                                                  \% anual durante 4 años. ...
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
+
+
+LaTeX Warning: Command \~ invalid in math mode on input line 22.
+
+examen_template.tex:22: Please use \mathaccent for accents in math mode.
+\add@accent ... \let \ignorespaces \relax \accent 
+                                                  #1 #2\egroup \ifmmode \els...
+l.22 ...\textbf{{ e5_tasa }}\% anual durante 4 añ
+                                                  os. ¿Cuánto interés gan...
+I'm changing \accent to \mathaccent here; wish me luck.
+(Accents are not the same in formulas as they are in text.)
+
+
+LaTeX Warning: Command \textquestiondown invalid in math mode on input line 22.
+
+
+
+LaTeX Warning: Command \' invalid in math mode on input line 22.
+
+examen_template.tex:22: Please use \mathaccent for accents in math mode.
+\add@accent ... \let \ignorespaces \relax \accent 
+                                                  #1 #2\egroup \ifmmode \els...
+l.22 ...e5_tasa }}\% anual durante 4 años. ¿Cuá
+                                                  nto interés gana en ese p...
+I'm changing \accent to \mathaccent here; wish me luck.
+(Accents are not the same in formulas as they are in text.)
+
+
+LaTeX Warning: Command \' invalid in math mode on input line 22.
+
+examen_template.tex:22: Please use \mathaccent for accents in math mode.
+\add@accent ... \let \ignorespaces \relax \accent 
+                                                  #1 #2\egroup \ifmmode \els...
+l.22 ...% anual durante 4 años. ¿Cuánto interé
+                                                  s gana en ese periodo? Uti...
+I'm changing \accent to \mathaccent here; wish me luck.
+(Accents are not the same in formulas as they are in text.)
+
+
+LaTeX Warning: Command \' invalid in math mode on input line 22.
+
+examen_template.tex:22: Please use \mathaccent for accents in math mode.
+\add@accent ... \let \ignorespaces \relax \accent 
+                                                  #1 #2\egroup \ifmmode \els...
+l.22 ...erés gana en ese periodo? Utilice interé
+                                                  s compuesto.
+I'm changing \accent to \mathaccent here; wish me luck.
+(Accents are not the same in formulas as they are in text.)
+
+examen_template.tex:23: Missing $ inserted.
+<inserted text> 
+                $
+l.23 
+     
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+examen_template.tex:23: Missing } inserted.
+<inserted text> 
+                }
+l.23 
+     
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+
+examen_template.tex:24: LaTeX Error: Not allowed in LR mode.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.24   \item S
+              e depositan \textbf{\$ {{ e6_capital }}} en una cuenta que pag...
+
+You've lost some text.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+examen_template.tex:24: LaTeX Error: Not allowed in LR mode.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.24   \item S
+              e depositan \textbf{\$ {{ e6_capital }}} en una cuenta que pag...
+
+You've lost some text.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+examen_template.tex:24: Missing } inserted.
+<inserted text> 
+                }
+l.24   \item S
+              e depositan \textbf{\$ {{ e6_capital }}} en una cuenta que pag...
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+examen_template.tex:24: Missing $ inserted.
+<inserted text> 
+                $
+l.24   \item S
+              e depositan \textbf{\$ {{ e6_capital }}} en una cuenta que pag...
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+examen_template.tex:24: Missing } inserted.
+<inserted text> 
+                }
+l.24   \item S
+              e depositan \textbf{\$ {{ e6_capital }}} en una cuenta que pag...
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+
+Overfull \hbox (27.45126pt too wide) in paragraph at lines 22--24
+\OT1/cmr/bx/n/10 Jorge
+ []
+
+
+Overfull \hbox (13.4166pt too wide) in paragraph at lines 22--24
+\OT1/cmr/bx/n/10 in-
+ []
+
+
+Overfull \hbox (29.01376pt too wide) in paragraph at lines 22--24
+\OT1/cmr/bx/n/10 vierte
+ []
+
+
+Overfull \hbox (5.7486pt too wide) in paragraph at lines 22--24
+\TS1/cmr/bx/n/10 $
+ []
+
+
+Overfull \hbox (449.03178pt too wide) in paragraph at lines 22--24
+\OT1/cmr/bx/n/10 e5$[]\OML/cmm/m/it/10 apitalal[]$ 
+ []
+
+examen_template.tex:24: Missing $ inserted.
+<inserted text> 
+                $
+l.24 ... Se depositan \textbf{\$ {{ e6_capital }}}
+                                                   en una cuenta que paga \t...
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+examen_template.tex:24: Extra }, or forgotten $.
+<argument> \$ {{ e6_capital }
+                             }
+l.24 ... Se depositan \textbf{\$ {{ e6_capital }}}
+                                                   en una cuenta que paga \t...
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
+
+examen_template.tex:24: Extra }, or forgotten $.
+<argument> \$ {{ e6_capital }}
+                              
+l.24 ... Se depositan \textbf{\$ {{ e6_capital }}}
+                                                   en una cuenta que paga \t...
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
+
+examen_template.tex:24: Extra }, or forgotten $.
+<recently read> \egroup 
+                        
+l.24 ... Se depositan \textbf{\$ {{ e6_capital }}}
+                                                   en una cuenta que paga \t...
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
+
+examen_template.tex:24: Missing $ inserted.
+<inserted text> 
+                $
+l.24 ...n una cuenta que paga \textbf{{ e6_tasa }}
+                                                  \% mensual, capitalizable ...
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+examen_template.tex:24: Extra }, or forgotten $.
+<argument> \bfseries { e6_tasa }
+                                
+l.24 ...n una cuenta que paga \textbf{{ e6_tasa }}
+                                                  \% mensual, capitalizable ...
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
+
+examen_template.tex:24: Extra }, or forgotten $.
+\mbox  #1->\leavevmode \hbox {#1}
+                                 
+l.24 ...n una cuenta que paga \textbf{{ e6_tasa }}
+                                                  \% mensual, capitalizable ...
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
+
+examen_template.tex:24: Extra }, or forgotten $.
+\nfss@text #1->{\mbox {#1}}
+                           
+l.24 ...n una cuenta que paga \textbf{{ e6_tasa }}
+                                                  \% mensual, capitalizable ...
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
+
+
+LaTeX Warning: Command \textquestiondown invalid in math mode on input line 24.
+
+
+
+LaTeX Warning: Command \' invalid in math mode on input line 24.
+
+examen_template.tex:24: Please use \mathaccent for accents in math mode.
+\add@accent ... \let \ignorespaces \relax \accent 
+                                                  #1 #2\egroup \ifmmode \els...
+l.24 ...ensual, capitalizable mensualmente. ¿Cuá
+                                                  l será el monto acumulado...
+I'm changing \accent to \mathaccent here; wish me luck.
+(Accents are not the same in formulas as they are in text.)
+
+
+LaTeX Warning: Command \' invalid in math mode on input line 24.
+
+examen_template.tex:24: Please use \mathaccent for accents in math mode.
+\add@accent ... \let \ignorespaces \relax \accent 
+                                                  #1 #2\egroup \ifmmode \els...
+l.24 ... capitalizable mensualmente. ¿Cuál será
+                                                   el monto acumulado en 18 ...
+I'm changing \accent to \mathaccent here; wish me luck.
+(Accents are not the same in formulas as they are in text.)
+
+
+examen_template.tex:25: LaTeX Error: Command \end{enumerate} invalid in math mo
+de.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.25 \end{enumerate}
+                    
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+examen_template.tex:25: Missing $ inserted.
+<inserted text> 
+                $
+l.25 \end{enumerate}
+                    
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+examen_template.tex:25: Missing } inserted.
+<inserted text> 
+                }
+l.25 \end{enumerate}
+                    
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+examen_template.tex:25: Missing } inserted.
+<inserted text> 
+                }
+l.25 \end{enumerate}
+                    
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+examen_template.tex:25: Missing $ inserted.
+<inserted text> 
+                $
+l.25 \end{enumerate}
+                    
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+examen_template.tex:25: Missing } inserted.
+<inserted text> 
+                }
+l.25 \end{enumerate}
+                    
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+
+Overfull \hbox (11.65967pt too wide) in paragraph at lines 24--25
+\OT1/cmr/bx/n/10 Se
+ []
+
+
+Overfull \hbox (15.49298pt too wide) in paragraph at lines 24--25
+\OT1/cmr/bx/n/10 de-
+ []
+
+
+Overfull \hbox (24.02208pt too wide) in paragraph at lines 24--25
+\OT1/cmr/bx/n/10 posi-
+ []
+
+
+Overfull \hbox (16.45128pt too wide) in paragraph at lines 24--25
+\OT1/cmr/bx/n/10 tan
+ []
+
+
+Overfull \hbox (5.7486pt too wide) in paragraph at lines 24--25
+\TS1/cmr/bx/n/10 $
+ []
+
+
+Overfull \hbox (529.90381pt too wide) in paragraph at lines 24--25
+\OT1/cmr/bx/n/10 e6$[]\OML/cmm/m/it/10 apitalenunacuentaquepaga[]$ 
+ []
+
+examen_template.tex:25: Missing } inserted.
+<inserted text> 
+                }
+l.25 \end{enumerate}
+                    
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+examen_template.tex:25: Missing } inserted.
+<inserted text> 
+                }
+l.25 \end{enumerate}
+                    
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+examen_template.tex:25: Missing } inserted.
+<inserted text> 
+                }
+l.25 \end{enumerate}
+                    
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+examen_template.tex:25: Missing } inserted.
+<inserted text> 
+                }
+l.25 \end{enumerate}
+                    
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+examen_template.tex:25: Missing } inserted.
+<inserted text> 
+                }
+l.25 \end{enumerate}
+                    
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+examen_template.tex:25: Missing } inserted.
+<inserted text> 
+                }
+l.25 \end{enumerate}
+                    
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+examen_template.tex:25: Missing } inserted.
+<inserted text> 
+                }
+l.25 \end{enumerate}
+                    
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+examen_template.tex:25: Missing } inserted.
+<inserted text> 
+                }
+l.25 \end{enumerate}
+                    
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+examen_template.tex:25: Missing } inserted.
+<inserted text> 
+                }
+l.25 \end{enumerate}
+                    
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+examen_template.tex:25: Missing } inserted.
+<inserted text> 
+                }
+l.25 \end{enumerate}
+                    
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+examen_template.tex:25: Missing } inserted.
+<inserted text> 
+                }
+l.25 \end{enumerate}
+                    
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+examen_template.tex:25: Missing } inserted.
+<inserted text> 
+                }
+l.25 \end{enumerate}
+                    
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+examen_template.tex:25: Missing } inserted.
+<inserted text> 
+                }
+l.25 \end{enumerate}
+                    
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+examen_template.tex:25: Missing } inserted.
+<inserted text> 
+                }
+l.25 \end{enumerate}
+                    
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+examen_template.tex:25: Missing } inserted.
+<inserted text> 
+                }
+l.25 \end{enumerate}
+                    
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+examen_template.tex:25: Missing } inserted.
+<inserted text> 
+                }
+l.25 \end{enumerate}
+                    
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+examen_template.tex:25: Missing } inserted.
+<inserted text> 
+                }
+l.25 \end{enumerate}
+                    
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+examen_template.tex:25: Missing } inserted.
+<inserted text> 
+                }
+l.25 \end{enumerate}
+                    
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+)
+! Emergency stop.
+<*> ./examen_template.tex
+                         
+*** (job aborted, no legal \end found)
+
+ 
+Here is how much of TeX's memory you used:
+ 46 strings out of 473682
+ 891 string characters out of 5717787
+ 393722 words of memory out of 5000000
+ 23227 multiletter control sequences out of 15000+600000
+ 558717 words of font info for 38 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 23i,12n,32p,390b,444s stack positions out of 10000i,1000n,20000p,200000b,200000s
+!  ==> Fatal error occurred, no output PDF file produced!
