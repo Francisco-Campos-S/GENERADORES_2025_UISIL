@@ -1,0 +1,426 @@
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.4) (preloaded format=pdflatex.fmt)
+ restricted \write18 enabled.
+entering extended mode
+(examen_completo.tex
+LaTeX2e <2024-11-01>
+L3 programming layer <2024-11-02>
+(C:\Users\Personal\AppData\Local\Programs\MiKTeX\tex/latex/base\article.cls
+Document Class: article 2024/06/29 v1.4n Standard LaTeX document class
+(C:\Users\Personal\AppData\Local\Programs\MiKTeX\tex/latex/base\size10.clo))
+(C:\Users\Personal\AppData\Local\Programs\MiKTeX\tex/latex/base\fontenc.sty)
+(C:\Users\Personal\AppData\Local\Programs\MiKTeX\tex/latex/base\inputenc.sty)
+(C:\Users\Personal\AppData\Local\Programs\MiKTeX\tex/generic/babel\babel.sty
+(C:\Users\Personal\AppData\Local\Programs\MiKTeX\tex/generic/babel\txtbabel.def
+)
+*************************************
+* Local config file bblopts.cfg used
+*
+(C:\Users\Personal\AppData\Local\Programs\MiKTeX\tex/latex/arabi\bblopts.cfg)
+(C:\Users\Personal\AppData\Local\Programs\MiKTeX\tex/latex/babel-spanish\spanis
+h.ldf))
+(C:\Users\Personal\AppData\Local\Programs\MiKTeX\tex/generic/babel/locale/es\ba
+bel-spanish.tex)
+(C:\Users\Personal\AppData\Local\Programs\MiKTeX\tex/latex/lm\lmodern.sty)
+(C:\Users\Personal\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsmath.sty
+For additional information on amsmath, use the `?' option.
+(C:\Users\Personal\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amstext.sty
+(C:\Users\Personal\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsgen.sty))
+ (C:\Users\Personal\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsbsy.sty)
+ (C:\Users\Personal\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsopn.sty)
+)
+(C:\Users\Personal\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\amssymb.sty
+
+(C:\Users\Personal\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\amsfonts.st
+y))
+(C:\Users\Personal\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphicx.st
+y
+(C:\Users\Personal\AppData\Local\Programs\MiKTeX\tex/latex/graphics\keyval.sty)
+
+(C:\Users\Personal\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphics.st
+y (C:\Users\Personal\AppData\Local\Programs\MiKTeX\tex/latex/graphics\trig.sty)
+
+(C:\Users\Personal\AppData\Local\Programs\MiKTeX\tex/latex/graphics-cfg\graphic
+s.cfg)
+(C:\Users\Personal\AppData\Local\Programs\MiKTeX\tex/latex/graphics-def\pdftex.
+def)))
+(C:\Users\Personal\AppData\Local\Programs\MiKTeX\tex/latex/fancyhdr\fancyhdr.st
+y)
+(C:\Users\Personal\AppData\Local\Programs\MiKTeX\tex/latex/enumitem\enumitem.st
+y) (C:\Users\Personal\AppData\Local\Programs\MiKTeX\tex/latex/base\textcomp.sty
+) (C:\Users\Personal\AppData\Local\Programs\MiKTeX\tex/latex/lm\t1lmr.fd)
+(C:\Users\Personal\AppData\Local\Programs\MiKTeX\tex/latex/l3backend\l3backend-
+pdftex.def) (examen_completo.aux)
+(C:\Users\Personal\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\supp-pdf
+.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+)
+(C:\Users\Personal\AppData\Local\Programs\MiKTeX\tex/latex/epstopdf-pkg\epstopd
+f-base.sty
+(C:\Users\Personal\AppData\Local\Programs\MiKTeX\tex/latex/00miktex\epstopdf-sy
+s.cfg))
+! Undefined control sequence.
+<argument> \$\num 
+                  { 25,791.00 }
+l.38 ...r un valor de \textbf{\$\num{ 25,791.00 }}
+                                                  . Acordó pagar en tres cu...
+
+(C:\Users\Personal\AppData\Local\Programs\MiKTeX\tex/latex/lm\ot1lmr.fd)
+(C:\Users\Personal\AppData\Local\Programs\MiKTeX\tex/latex/lm\omllmm.fd)
+(C:\Users\Personal\AppData\Local\Programs\MiKTeX\tex/latex/lm\omslmsy.fd)
+(C:\Users\Personal\AppData\Local\Programs\MiKTeX\tex/latex/lm\omxlmex.fd)
+(C:\Users\Personal\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsa.fd)
+(C:\Users\Personal\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsb.fd)
+! Undefined control sequence.
+<argument> \$\num 
+                  { 15,967.00 }
+l.42 ...ercancía por \textbf{\$\num{ 15,967.00 }}
+                                                   y planea pagar en tres pa...
+
+! Undefined control sequence.
+<argument> \$\num 
+                  { 6,670.00 }
+l.46 ...un pagaré por \textbf{\$\num{ 6,670.00 }}
+                                                   a 5 meses, con una tasa a...
+
+! Undefined control sequence.
+<argument> \$\num 
+                  { 10,296.00 }
+l.46 ...tra deuda por \textbf{\$\num{ 10,296.00 }}
+                                                   a 4 meses. Luego realiza ...
+
+! Undefined control sequence.
+<argument> \$\num 
+                  { 3,072.00 }
+l.46 ...za un abono de \textbf{\$\num{ 3,072.00 }}
+                                                   y acuerda pagar el saldo ...
+
+(C:\Users\Personal\AppData\Local\Programs\MiKTeX\tex/latex/lm\ts1lmr.fd)
+! Undefined control sequence.
+<argument> ₡\num 
+                   { 158.103.00 }
+l.50 ...epósito de \textbf{₡\num{ 158.103.00 }}
+                                                   en una cuenta que ofrece ...
+
+! Undefined control sequence.
+<argument> \$\num 
+                  { 33,021.00 }
+l.54 ...ez } invierte \textbf{\$\num{ 33,021.00 }}
+                                                   al \textbf{ 4.7 }\% anual...
+
+! Undefined control sequence.
+<argument> \$\num 
+                  { 60,534.00 }
+l.58 ... Se depositan \textbf{\$\num{ 60,534.00 }}
+                                                   en una cuenta con una tas...
+
+
+[1{C:/Users/Personal/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}{C:/Users
+/Personal/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-ec.enc}{C:/Users/
+Personal/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-ts1.enc}]
+! Undefined control sequence.
+<argument> \$\num 
+                  { 24,247.00 }
+l.80 ...r un valor de \textbf{\$\num{ 24,247.00 }}
+                                                  . Acordó pagar en tres cu...
+
+! Undefined control sequence.
+<argument> \$\num 
+                  { 15,565.00 }
+l.84 ...ercancía por \textbf{\$\num{ 15,565.00 }}
+                                                   y planea pagar en tres pa...
+
+! Undefined control sequence.
+<argument> \$\num 
+                  { 7,861.00 }
+l.88 ...un pagaré por \textbf{\$\num{ 7,861.00 }}
+                                                   a 5 meses, con una tasa a...
+
+! Undefined control sequence.
+<argument> \$\num 
+                  { 9,743.00 }
+l.88 ...otra deuda por \textbf{\$\num{ 9,743.00 }}
+                                                   a 4 meses. Luego realiza ...
+
+! Undefined control sequence.
+<argument> \$\num 
+                  { 4,199.00 }
+l.88 ...za un abono de \textbf{\$\num{ 4,199.00 }}
+                                                   y acuerda pagar el saldo ...
+
+! Undefined control sequence.
+<argument> ₡\num 
+                   { 142.052.00 }
+l.92 ...epósito de \textbf{₡\num{ 142.052.00 }}
+                                                   en una cuenta que ofrece ...
+
+! Undefined control sequence.
+<argument> \$\num 
+                  { 33,874.00 }
+l.96 ...ez } invierte \textbf{\$\num{ 33,874.00 }}
+                                                   al \textbf{ 4.8 }\% anual...
+
+! Undefined control sequence.
+<argument> \$\num 
+                  { 69,010.00 }
+l.100 ...Se depositan \textbf{\$\num{ 69,010.00 }}
+                                                   en una cuenta con una tas...
+
+
+[2]
+! Undefined control sequence.
+<argument> \$\num 
+                  { 24,067.00 }
+l.122 ... un valor de \textbf{\$\num{ 24,067.00 }}
+                                                  . Acordó pagar en tres cu...
+
+! Undefined control sequence.
+<argument> \$\num 
+                  { 14,335.00 }
+l.126 ...rcancía por \textbf{\$\num{ 14,335.00 }}
+                                                   y planea pagar en tres pa...
+
+! Undefined control sequence.
+<argument> \$\num 
+                  { 6,656.00 }
+l.130 ...n pagaré por \textbf{\$\num{ 6,656.00 }}
+                                                   a 5 meses, con una tasa a...
+
+! Undefined control sequence.
+<argument> \$\num 
+                  { 9,603.00 }
+l.130 ...tra deuda por \textbf{\$\num{ 9,603.00 }}
+                                                   a 4 meses. Luego realiza ...
+
+! Undefined control sequence.
+<argument> \$\num 
+                  { 3,522.00 }
+l.130 ...a un abono de \textbf{\$\num{ 3,522.00 }}
+                                                   y acuerda pagar el saldo ...
+
+! Undefined control sequence.
+<argument> ₡\num 
+                   { 153.822.00 }
+l.134 ...pósito de \textbf{₡\num{ 153.822.00 }}
+                                                   en una cuenta que ofrece ...
+
+! Undefined control sequence.
+<argument> \$\num 
+                  { 31,655.00 }
+l.138 ...s } invierte \textbf{\$\num{ 31,655.00 }}
+                                                   al \textbf{ 4.3 }\% anual...
+
+! Undefined control sequence.
+<argument> \$\num 
+                  { 60,348.00 }
+l.142 ...Se depositan \textbf{\$\num{ 60,348.00 }}
+                                                   en una cuenta con una tas...
+
+
+[3]
+! Undefined control sequence.
+<argument> \$\num 
+                  { 25,237.00 }
+l.164 ... un valor de \textbf{\$\num{ 25,237.00 }}
+                                                  . Acordó pagar en tres cu...
+
+! Undefined control sequence.
+<argument> \$\num 
+                  { 16,415.00 }
+l.168 ...rcancía por \textbf{\$\num{ 16,415.00 }}
+                                                   y planea pagar en tres pa...
+
+! Undefined control sequence.
+<argument> \$\num 
+                  { 7,819.00 }
+l.172 ...n pagaré por \textbf{\$\num{ 7,819.00 }}
+                                                   a 5 meses, con una tasa a...
+
+! Undefined control sequence.
+<argument> \$\num 
+                  { 9,504.00 }
+l.172 ...tra deuda por \textbf{\$\num{ 9,504.00 }}
+                                                   a 4 meses. Luego realiza ...
+
+! Undefined control sequence.
+<argument> \$\num 
+                  { 4,613.00 }
+l.172 ...a un abono de \textbf{\$\num{ 4,613.00 }}
+                                                   y acuerda pagar el saldo ...
+
+! Undefined control sequence.
+<argument> ₡\num 
+                   { 151.120.00 }
+l.176 ...pósito de \textbf{₡\num{ 151.120.00 }}
+                                                   en una cuenta que ofrece ...
+
+! Undefined control sequence.
+<argument> \$\num 
+                  { 32,526.00 }
+l.180 ...z } invierte \textbf{\$\num{ 32,526.00 }}
+                                                   al \textbf{ 4.4 }\% anual...
+
+! Undefined control sequence.
+<argument> \$\num 
+                  { 65,257.00 }
+l.184 ...Se depositan \textbf{\$\num{ 65,257.00 }}
+                                                   en una cuenta con una tas...
+
+
+[4]
+! Undefined control sequence.
+<argument> \$\num 
+                  { 25,128.00 }
+l.206 ... un valor de \textbf{\$\num{ 25,128.00 }}
+                                                  . Acordó pagar en tres cu...
+
+! Undefined control sequence.
+<argument> \$\num 
+                  { 16,599.00 }
+l.210 ...rcancía por \textbf{\$\num{ 16,599.00 }}
+                                                   y planea pagar en tres pa...
+
+! Undefined control sequence.
+<argument> \$\num 
+                  { 7,535.00 }
+l.214 ...n pagaré por \textbf{\$\num{ 7,535.00 }}
+                                                   a 5 meses, con una tasa a...
+
+! Undefined control sequence.
+<argument> \$\num 
+                  { 10,154.00 }
+l.214 ...ra deuda por \textbf{\$\num{ 10,154.00 }}
+                                                   a 4 meses. Luego realiza ...
+
+! Undefined control sequence.
+<argument> \$\num 
+                  { 3,360.00 }
+l.214 ...a un abono de \textbf{\$\num{ 3,360.00 }}
+                                                   y acuerda pagar el saldo ...
+
+! Undefined control sequence.
+<argument> ₡\num 
+                   { 147.138.00 }
+l.218 ...pósito de \textbf{₡\num{ 147.138.00 }}
+                                                   en una cuenta que ofrece ...
+
+! Undefined control sequence.
+<argument> \$\num 
+                  { 31,295.00 }
+l.222 ...s } invierte \textbf{\$\num{ 31,295.00 }}
+                                                   al \textbf{ 5.4 }\% anual...
+
+! Undefined control sequence.
+<argument> \$\num 
+                  { 65,856.00 }
+l.226 ...Se depositan \textbf{\$\num{ 65,856.00 }}
+                                                   en una cuenta con una tas...
+
+
+[5]
+! Undefined control sequence.
+<argument> \$\num 
+                  { 25,589.00 }
+l.248 ... un valor de \textbf{\$\num{ 25,589.00 }}
+                                                  . Acordó pagar en tres cu...
+
+! Undefined control sequence.
+<argument> \$\num 
+                  { 14,879.00 }
+l.252 ...rcancía por \textbf{\$\num{ 14,879.00 }}
+                                                   y planea pagar en tres pa...
+
+! Undefined control sequence.
+<argument> \$\num 
+                  { 6,607.00 }
+l.256 ...n pagaré por \textbf{\$\num{ 6,607.00 }}
+                                                   a 5 meses, con una tasa a...
+
+! Undefined control sequence.
+<argument> \$\num 
+                  { 10,825.00 }
+l.256 ...ra deuda por \textbf{\$\num{ 10,825.00 }}
+                                                   a 4 meses. Luego realiza ...
+
+! Undefined control sequence.
+<argument> \$\num 
+                  { 4,820.00 }
+l.256 ...a un abono de \textbf{\$\num{ 4,820.00 }}
+                                                   y acuerda pagar el saldo ...
+
+! Undefined control sequence.
+<argument> ₡\num 
+                   { 144.039.00 }
+l.260 ...pósito de \textbf{₡\num{ 144.039.00 }}
+                                                   en una cuenta que ofrece ...
+
+! Undefined control sequence.
+<argument> \$\num 
+                  { 33,622.00 }
+l.264 ...s } invierte \textbf{\$\num{ 33,622.00 }}
+                                                   al \textbf{ 5.1 }\% anual...
+
+! Undefined control sequence.
+<argument> \$\num 
+                  { 67,687.00 }
+l.268 ...Se depositan \textbf{\$\num{ 67,687.00 }}
+                                                   en una cuenta con una tas...
+
+
+[6]
+! Undefined control sequence.
+<argument> \$\num 
+                  { 24,157.00 }
+l.290 ... un valor de \textbf{\$\num{ 24,157.00 }}
+                                                  . Acordó pagar en tres cu...
+
+! Undefined control sequence.
+<argument> \$\num 
+                  { 14,095.00 }
+l.294 ...rcancía por \textbf{\$\num{ 14,095.00 }}
+                                                   y planea pagar en tres pa...
+
+! Undefined control sequence.
+<argument> \$\num 
+                  { 6,635.00 }
+l.298 ...n pagaré por \textbf{\$\num{ 6,635.00 }}
+                                                   a 5 meses, con una tasa a...
+
+! Undefined control sequence.
+<argument> \$\num 
+                  { 10,657.00 }
+l.298 ...ra deuda por \textbf{\$\num{ 10,657.00 }}
+                                                   a 4 meses. Luego realiza ...
+
+! Undefined control sequence.
+<argument> \$\num 
+                  { 3,892.00 }
+l.298 ...a un abono de \textbf{\$\num{ 3,892.00 }}
+                                                   y acuerda pagar el saldo ...
+
+! Undefined control sequence.
+<argument> ₡\num 
+                   { 155.548.00 }
+l.302 ...pósito de \textbf{₡\num{ 155.548.00 }}
+                                                   en una cuenta que ofrece ...
+
+! Undefined control sequence.
+<argument> \$\num 
+                  { 33,700.00 }
+l.306 ...s } invierte \textbf{\$\num{ 33,700.00 }}
+                                                   al \textbf{ 4.4 }\% anual...
+
+! Undefined control sequence.
+<argument> \$\num 
+                  { 62,420.00 }
+l.310 ...Se depositan \textbf{\$\num{ 62,420.00 }}
+                                                   en una cuenta con una tas...
+
+
+[7] (examen_completo.aux) )
+(see the transcript file for additional information)<C:/Users/Personal/AppData/
+Local/Programs/MiKTeX/fonts/type1/public/lm/lmbx10.pfb><C:/Users/Personal/AppDa
+ta/Local/Programs/MiKTeX/fonts/type1/public/lm/lmbx12.pfb><C:/Users/Personal/Ap
+pData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr10.pfb><C:/Users/Personal/
+AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr12.pfb>
+Output written on examen_completo.pdf (7 pages, 133622 bytes).
+Transcript written on examen_completo.log.
